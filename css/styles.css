@@ -222,7 +222,15 @@ h2 {
 .proj3 {
   background-image: url("../img/Picture4.jpg");
 }
-
+.proj4 {
+  background-image: url("../img/Picture5.jpg");
+}
+.proj5 {
+  background-image: url("../img/Picture3.jpg");
+}
+.proj6 {
+  background-image: url("../img/Picture4.jpg");
+}
 /*footer */
 
 footer {
